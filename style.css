@@ -1,5 +1,5 @@
 .bg-img {
-  background-size: cover; 
+  background-size: contain; 
   background-position: center center; 
   opacity:1; 
   min-height:300px;
