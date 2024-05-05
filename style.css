@@ -3,6 +3,7 @@
   background-position: center center; 
   opacity:1; 
   min-height:300px;
+  background-repeat:no-repeat;
 }
 
 .shadow {
